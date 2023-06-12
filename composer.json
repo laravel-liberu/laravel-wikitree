@@ -23,5 +23,8 @@
                 "Familytree365\\Wikitree\\AppServiceProvider"
             ]
         }
+    },
+    "require-dev": {
+        "rector/rector": "^0.17.0"
     }
 }
